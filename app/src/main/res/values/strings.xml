@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TwitAegis2</string>
+    <string name="twitter_consumer_key">d2RWYNUIm1reuoMez420g</string>
+    <string name="twitter_consumer_secret">x5FxdyMEsZeD968A2M7bw8w6QrdjyQJFFsQxBnO7Zgw</string>
+    <string name="twitter_callback_url">aegis://twitter</string>
+    <string name="twitter_oauth">認証</string>
+</resources>
